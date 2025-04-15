@@ -1,0 +1,1270 @@
+[20-Sep-2018 13:28:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:28:29 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[20-Sep-2018 13:29:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:31:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:31:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:32:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:34:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:38:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:40:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:42:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:45:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:45:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:47:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:47:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:50:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:50:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:50:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:52:45 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:53:34 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:55:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:55:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:55:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:55:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 13:55:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:24:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:24:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:24:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:25:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:25:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:25:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:34:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:35:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:35:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:35:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:35:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:35:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:36:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:37:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:39:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:39:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:39:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:41:45 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:44:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:49:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:51:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:59:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 16:59:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:02:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:02:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:04:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:05:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:17:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:17:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:17:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:18:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:33:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 17:39:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:14:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:23:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:24:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:26:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:30:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:35:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:38:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:46:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:50:39 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 18:57:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 19:01:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 19:05:19 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 19:07:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Sep-2018 19:07:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:39:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:39:18 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[21-Sep-2018 04:39:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:40:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:41:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:42:58 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:43:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:44:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:44:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:45:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:45:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:46:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:46:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Sep-2018 04:49:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:20:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:20:46 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[02-Oct-2018 06:22:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:23:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:25:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:25:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:28:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:35:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:35:08 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[02-Oct-2018 06:35:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:35:54 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[02-Oct-2018 06:37:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:37:02 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[02-Oct-2018 06:37:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:37:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:45:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:47:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:49:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Oct-2018 06:49:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 10:42:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 10:42:28 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Oct-2018 10:42:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 10:42:58 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Oct-2018 10:43:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 10:43:10 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Oct-2018 10:50:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 10:50:47 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Oct-2018 10:52:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 11:01:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 11:05:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 11:07:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 11:08:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 12:36:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 12:36:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 12:36:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 12:36:38 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 12:36:38 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 12:36:38 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 12:38:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 15:16:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 15:16:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 15:16:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 15:16:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 15:16:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 15:16:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 15:16:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 15:16:27 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[14-Oct-2018 17:26:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Oct-2018 17:34:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Oct-2018 07:47:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Oct-2018 07:54:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:10:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:10:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:10:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:10:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:10:21 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:10:21 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:10:21 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:10:21 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:11:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:12:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:12:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:12:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:12:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:12:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Oct-2018 10:12:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:12:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:12:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:12:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[16-Oct-2018 10:12:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[17-Oct-2018 13:23:50 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Oct-2018 13:23:50 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[17-Oct-2018 13:23:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Oct-2018 13:23:53 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[17-Oct-2018 13:24:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 05:40:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 05:41:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 06:54:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 06:54:28 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[24-Oct-2018 17:58:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 17:58:29 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[24-Oct-2018 17:58:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 17:58:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 17:58:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[24-Oct-2018 17:58:30 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[24-Oct-2018 17:58:30 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[24-Oct-2018 17:58:30 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:47:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:47:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:47:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:47:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:47:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:47:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:47:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:47:26 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:48:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:48:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:48:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:48:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:48:22 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:48:22 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:48:22 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:48:22 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:49:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:49:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:49:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:49:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:49:17 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:49:17 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:49:17 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:49:17 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/public_html/PMS/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/public_html/PMS/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/public_html/PMS/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/public_html/PMS/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/public_html/PMS/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/public_html/PMS/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/public_html/PMS/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[25-Oct-2018 02:49:45 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Oct-2018 02:49:45 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:42:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:42:36 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:43:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:43:16 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:44:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:44:35 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:45:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:45:27 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:55:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:55:09 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:55:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:55:22 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:55:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:55:43 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:55:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:55:57 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[13-Nov-2018 12:56:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Nov-2018 12:56:18 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 06:07:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 06:07:30 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 06:08:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 06:08:29 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 10:01:20 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 10:01:20 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 12:39:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 12:39:38 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 12:39:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 12:39:43 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 13:23:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 13:23:57 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 14:04:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 14:04:22 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 14:10:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 14:10:07 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[14-Nov-2018 14:43:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[14-Nov-2018 14:43:41 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[15-Nov-2018 04:22:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 04:22:24 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/public_html/PMS/src/routes/api.php on line 109
+[15-Nov-2018 12:48:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:55:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:55:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:55:55 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 12:55:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:55:57 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 12:56:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:56:09 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 12:57:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:57:46 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[15-Nov-2018 12:58:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:58:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:58:10 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 12:58:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 12:58:28 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:00:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:00:46 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:00:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:00:49 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[15-Nov-2018 13:00:51 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:00:51 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[15-Nov-2018 13:01:50 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:02:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:02:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:02:48 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:03:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:03:08 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:03:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:04:01 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:38:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:38:32 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:38:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:38:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:39:39 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:39:39 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:49:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 13:49:12 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 13:49:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:01:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:01:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:01:31 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 14:01:31 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 14:01:34 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:01:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:01:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 14:01:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:01:37 UTC] Slim Application Error:
+Type: PDOException
+Code: 23000
+Message: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'invoice_number' cannot be null
+File: /home/software/salman.universalitgroup.com/app/src/routes/api.php
+Line: 260
+Trace: #0 /home/software/salman.universalitgroup.com/app/src/routes/api.php(260): PDOStatement->execute()
+#1 [internal function]: Closure->{closure}(Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#2 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Handlers/Strategies/RequestResponse.php(41): call_user_func(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#3 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(335): Slim\Handlers\Strategies\RequestResponse->__invoke(Object(Closure), Object(Slim\Http\Request), Object(Slim\Http\Response), Array)
+#4 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\Route->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#5 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/Route.php(313): Slim\Route->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#6 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(495): Slim\Route->run(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#7 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/MiddlewareAwareTrait.php(117): Slim\App->__invoke(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#8 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(388): Slim\App->callMiddlewareStack(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#9 /home/software/salman.universalitgroup.com/app/vendor/slim/slim/Slim/App.php(296): Slim\App->process(Object(Slim\Http\Request), Object(Slim\Http\Response))
+#10 /home/software/salman.universalitgroup.com/app/public/api_config.php(10): Slim\App->run()
+#11 {main}
+View in rendered output by enabling the "displayErrorDetails" setting.
+
+[15-Nov-2018 14:01:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:30:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:43:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:43:12 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[15-Nov-2018 14:43:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:43:27 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[15-Nov-2018 14:44:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 14:45:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 15:27:34 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 19:41:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-Nov-2018 19:42:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 08:18:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 09:49:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 10:44:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 10:50:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 15:18:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 15:18:25 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[16-Nov-2018 15:18:44 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Nov-2018 15:24:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 05:45:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 09:34:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:37:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:37:54 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:38:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:38:06 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:38:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:38:16 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:38:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:38:38 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:39:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:39:09 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:39:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:39:47 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:39:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:39:52 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:39:58 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:39:58 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:40:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:40:03 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:41:13 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:41:13 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:41:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:41:27 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:41:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:41:31 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:42:04 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:42:04 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:42:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:42:07 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:42:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:42:16 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:42:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:42:38 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:42:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Nov-2018 13:42:40 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[19-Nov-2018 13:42:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Nov-2018 05:13:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2018 05:34:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-Nov-2018 11:15:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2018 10:12:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2018 10:12:40 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[04-Dec-2018 10:12:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2018 10:12:46 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[04-Dec-2018 10:12:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2018 10:12:57 UTC] PHP Fatal error:  Call to a member function getMessage() on null in /home/software/salman.universalitgroup.com/app/src/routes/api.php on line 109
+[04-Dec-2018 10:13:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2018 13:20:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Dec-2018 13:26:04 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0

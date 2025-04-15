@@ -1,0 +1,401 @@
+/*  ÃœÊ· »Ì«‰«  «·‘—ﬂ… «Ê «·„ƒ””…*/
+CREATE TABLE ORG(
+  ORG_ADDRESS  VARCHAR2(50 BYTE),
+  ORG_NAME     VARCHAR2(100 BYTE));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·›—Ê⁄*/
+CREATE TABLE COMPANY(
+  COMP_C   NUMBER(2)                            NOT NULL,
+  COMP_N   VARCHAR2(100 BYTE)                   NOT NULL,
+  ADDRESS  VARCHAR2(100 BYTE),
+  TEL1     VARCHAR2(15 BYTE),
+  TEL2     VARCHAR2(15 BYTE),
+  FAX      VARCHAR2(15 BYTE),
+  MOBILE   VARCHAR2(15 BYTE),
+  UP_DATE  DATE,
+  USER_C   NUMBER(2),
+  NOTE     VARCHAR2(200 BYTE),
+  CONSTRAINT COMPANY_COMP_C_PK
+ PRIMARY KEY
+ (COMP_C));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·„Ã„Ê⁄«  «·’‰›Ì…*/
+CREATE TABLE CLASS(
+  CLASS_C     NUMBER(11),
+  CLASS_N     VARCHAR2(35 BYTE),
+  CLASS_DESC  VARCHAR2(100 BYTE),
+  CONSTRAINT CLASS_CLASS_C_PK
+ PRIMARY KEY
+ (CLASS_C));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·‘—ﬂ… «·„‰ Ã… ··«’‰«›*/
+CREATE TABLE FACTORY (
+  FACTOR_C  NUMBER(2),
+  FACTOR_N  VARCHAR2(100 BYTE),
+  CONSTRAINT FACTORY_FACTOR_C_PK
+ PRIMARY KEY
+ (FACTOR_C));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «ﬂÊ«œ «·«’‰«›*/
+CREATE TABLE SANF(
+  ITEM_C       NUMBER(11),
+  CLASS_C      NUMBER(11),
+  FACTOR_C     NUMBER(2),
+  MODEL        VARCHAR2(50 BYTE),
+  ITEM_N       VARCHAR2(150 BYTE),
+  UOM          VARCHAR2(15 BYTE),
+  DESCRIPTION  VARCHAR2(100 BYTE),
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(2),
+  CONSTRAINT SANF_ITEM_CLASS_FACTOR_PK
+ PRIMARY KEY
+ (ITEM_C, CLASS_C, FACTOR_C));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·„ ⁄«„·Ì‰ */
+CREATE TABLE DEALERS(
+  DEALER_C            NUMBER,
+  DEALER_N            VARCHAR2(100 BYTE),
+  ADDRESS             VARCHAR2(100 BYTE),
+  PHONE               VARCHAR2(15 BYTE),
+  MOBILE              VARCHAR2(15 BYTE),
+  DEALER_TYPE         NUMBER(1),
+  CONTACT_C           NUMBER(2),
+  COMP_C              VARCHAR2(2 BYTE),
+  USER_C              VARCHAR2(2 BYTE),
+  SALES               NUMBER(11,2),
+  SALES_RETURN        NUMBER(11,2),
+  BUY                 NUMBER(11,2),
+  BUY_RETURN          NUMBER(11,2),
+  DEALER_CREDIT       NUMBER(11,2),
+  DEALER_CREDIT_BACK  NUMBER(11,2),
+  CASH_IN             NUMBER(11,2),
+  CASH_OUT            NUMBER(11,2),
+  DIS_VAL             NUMBER(11,2),
+  OPEN_BAL            NUMBER(11,2),
+  BALANCE             NUMBER(11,2),
+  UP_DATE             DATE,
+  CONSTRAINT DEALERS_PK
+ PRIMARY KEY
+ (DEALER_C, DEALER_TYPE, COMP_C));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·«œ«—« */
+CREATE TABLE DEPT(
+  DEPT_C    NUMBER(3),
+  DEPT_N    VARCHAR2(100 BYTE),
+  LOCATION  VARCHAR2(100 BYTE),
+  MGR       NUMBER(11));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·„ÊŸ›Ì‰*/
+CREATE TABLE EMPLOYEE(
+  EMP_ID   NUMBER(3),
+  EMP_N    CHAR(50 BYTE),
+  ADDRESS  VARCHAR2(100 BYTE),
+  PHONE    VARCHAR2(15 BYTE),
+  MOBILE   VARCHAR2(15 BYTE),
+  USER_C   NUMBER(3),
+  UP_DATE  DATE,
+  JOB      VARCHAR2(100 BYTE),
+  DEPT_C   NUMBER(3),
+  COMP_C   NUMBER(2),
+  CONSTRAINT EMPLOYEE_PK
+ PRIMARY KEY
+ (EMP_ID, COMP_C));
+//**********************************************************************************************//
+
+/* ÃœÊ·  «·»‰Êﬂ*/
+CREATE TABLE BANK(
+  BANK_C    NUMBER(3),
+  BANK_N    VARCHAR2(100 BYTE),
+  BANK_ADD  VARCHAR2(150 BYTE),
+  BRANCH    VARCHAR2(100 BYTE));
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·«’‰«› «·„Œ“‰Ì…*/
+CREATE TABLE ITEMS (
+  ITEM_C       NUMBER(11),
+  ITEM_N       VARCHAR2(150 BYTE),
+  CLASS_C      NUMBER(11),
+  FACTOR_C     NUMBER(2),
+  MODEL        VARCHAR2(50 BYTE),
+  DEALER_C     NUMBER(11),
+  STORE_NO     NUMBER(1),
+  COST         NUMBER(11,2),
+  PRICE        NUMBER(11,2),
+  QTY          NUMBER(11),
+  MIN_QTY      NUMBER(11,2),
+  REORDER_QTY  NUMBER(11,2),
+  DESCRIPTION  VARCHAR2(100 BYTE),
+  UOM          VARCHAR2(15 BYTE),
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(2),
+  CONSTRAINT ITEM_STORE_PK
+ PRIMARY KEY
+ (ITEM_C, STORE_NO));
+//**********************************************************************************************//
+
+/* ÃœÊ· «·Œ“Ì‰…*/
+CREATE TABLE BOX(
+  BOX_SEQ      NUMBER(6),
+  AMOUNT_V     NUMBER(11,2),
+  DEALER_C     NUMBER(11,2),
+  DOC_NO       NUMBER(6),
+  NOTE         VARCHAR2(100 BYTE),
+  TRANS_C      NUMBER(1),
+  UP_DATE      DATE,
+  COMP_C       NUMBER(2),
+  USER_C       NUMBER(2),
+  BOX_DATE     DATE,
+  DEALER_TYPE  NUMBER(9),
+  BOX_TYPE     NUMBER(1),
+  PAY_TYPE     NUMBER(1),
+  BANK_C       NUMBER(3),
+  CHECK_NO     NUMBER(20),
+  EMP_ID       NUMBER(3),
+  TRANS_SEQ    NUMBER(7),
+  CHECK_DATE   DATE,
+  CONSTRAINT BOX_PK
+ PRIMARY KEY
+ (BOX_SEQ, BOX_TYPE, COMP_C));
+//**********************************************************************************************//
+
+/* ÃœÊ· Ã—œ «·„Œ“‰*/
+CREATE TABLE CHECK_STORE(
+  DOC_NO       NUMBER(20)                       NOT NULL,
+  DOC_DATE     DATE                             NOT NULL,
+  CHECK_C      NUMBER(10),
+  START_DATE   DATE,
+  END_DATE     DATE,
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(3),
+  UP_DATE      DATE                             DEFAULT NULL,
+  STORE_NO     NUMBER(2),
+  FLAG_STATUS  NUMBER(1),
+  NOTES        VARCHAR2(255 BYTE),
+  CONSTRAINT CHECK_STORE_PK
+ PRIMARY KEY
+ (DOC_NO, DOC_DATE, COMP_C));
+
+//**********************************************************************************************//
+/*  ÃœÊ· Ã—œ «·„Œ“‰  ›’Ì·Ì*/
+CREATE TABLE CHECK_STORE_DETAIL(
+  DOC_NO        NUMBER(20)                      NOT NULL,
+  DOC_DATE      DATE                            NOT NULL,
+  SEQ           NUMBER(10)                      NOT NULL,
+  ITEM_C        VARCHAR2(20 BYTE)               NOT NULL,
+  CURR_BALANCE  NUMBER(10,2),
+  REAL_BALANCE  NUMBER(10,2),
+  INC_QTY       NUMBER(10,2),
+  DEC_QTY       NUMBER(10,2),
+  NOTES         VARCHAR2(200 BYTE),
+  USER_C        NUMBER(2),
+  COMP_C        NUMBER(3),
+  STORE_NO      NUMBER(2),
+  UOM           VARCHAR2(50 BYTE),
+  FLAG_STATUS   NUMBER(11),
+  CONSTRAINT CHECK_STORE_DETAIL_PK
+ PRIMARY KEY
+ (DOC_NO, DOC_DATE, ITEM_C, COMP_C)
+)
+;
+//**********************************************************************************************//
+
+/*  ÃœÊ· ‰Ê⁄ ⁄„·Ì… «·Ã—œ*/
+CREATE TABLE CHECK_TYPE
+(
+  CHCK_C  NUMBER(1),
+  CHCK_N  VARCHAR2(30 BYTE)
+);
+
+//**********************************************************************************************//
+/*  ÃœÊ· ‰Ê⁄ «·«–‰ «Ê «·›« Ê—…*/
+CREATE TABLE DOC_TYPE
+(
+  DOC_C  NUMBER(1),
+  DOC_N  VARCHAR2(50 BYTE)
+);
+
+//**********************************************************************************************//
+/*  ÃœÊ· «·›Ê« Ì— «Ê «·«–Ê‰*/
+CREATE TABLE INVOICE
+(
+  INV_NO       NUMBER(11),
+  INV_DATE     DATE,
+  INV_TYPE     NUMBER(1),
+  STORE_NO     NUMBER(1),
+  DEALER_C     NUMBER(3),
+  DEALER_TYPE  NUMBER(1),
+  NOTE         VARCHAR2(100 BYTE),
+  INV_DIS      NUMBER(11,2),
+  INV_NET      NUMBER(11,2),
+  UP_DATE      DATE,
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(2),
+  PAY_TYPE     NUMBER(1),
+  CH_STORE_C   NUMBER(11),
+  EMP_ID       NUMBER(3),
+  CONSTRAINT INVOICE_PK
+ PRIMARY KEY
+ (INV_NO, INV_DATE, INV_TYPE, COMP_C)
+);
+
+//**********************************************************************************************//
+/*  ÃœÊ·  ›«’Ì· «·›Ê« Ì—*/
+CREATE TABLE INV_DETAIL
+(
+  INV_NO       NUMBER(11),
+  INV_DATE     DATE,
+  INV_TYPE     NUMBER(1),
+  STORE_NO     NUMBER(2),
+  DEALER_C     NUMBER(3),
+  DEALER_TYPE  NUMBER(1),
+  SEQ          NUMBER(2)                        NOT NULL,
+  ITEM_C       NUMBER(11),
+  QTY          NUMBER(11),
+  PRICE        NUMBER(11,2),
+  ITEM_VAL     NUMBER(11,2),
+  UOM          VARCHAR2(15 BYTE),
+  UP_DATE      DATE,
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(2),
+  PAY_TYPE     NUMBER(1),
+  BAL_AFTER    NUMBER(11,2),
+  I_SEQ        NUMBER(11),
+  CH_STORE_C   NUMBER(11),
+  NOTES        VARCHAR2(150 BYTE),
+  EMP_ID       VARCHAR2(3 BYTE),
+  CONSTRAINT INV_DETAIL_PK
+ PRIMARY KEY
+ (INV_NO, INV_DATE, INV_TYPE, ITEM_C, COMP_C)
+);
+
+
+
+
+/*  ÃœÊ· «ﬂÊ«œ ÿ—ﬁ «·œ›⁄*/
+CREATE TABLE PAY_WAY
+(
+  PAY_WAY  NUMBER(1),
+  PAY_N    VARCHAR2(75 BYTE)
+);
+
+
+
+
+//**********************************************************************************************//
+
+/*  ÃœÊ· «·„Œ«“‰*/
+CREATE TABLE STORE(
+  STORE_NO  NUMBER(2),
+  STORE_N   VARCHAR2(50 BYTE),
+  COMP_C    NUMBER(2)                           NOT NULL,
+  ADDRESS   VARCHAR2(100 BYTE),
+  TEL1      VARCHAR2(15 BYTE),
+  EMP_ID    NUMBER(3),
+  USER_C    NUMBER(2),
+  CONSTRAINT STORE_STORE_NO_PK
+ PRIMARY KEY
+ (STORE_NO));
+//**********************************************************************************************//
+
+/*  ÃœÊ· ÊÕœ«  «·ﬁÌ«”*/
+CREATE TABLE UNITS
+(
+  UNIT_C  NUMBER(2)                             NOT NULL,
+  UNIT_N  VARCHAR2(100 BYTE)
+);
+
+/*  ÃœÊ· «·„” Œœ„Ì‰*/
+CREATE TABLE USERS
+(
+  USER_C  NUMBER(2),
+  USER_N  VARCHAR2(100 BYTE),
+  PASS    VARCHAR2(12 BYTE),
+  EMP_ID  NUMBER(3),
+  COMP_C  NUMBER,
+  CONSTRAINT USERS_USER_C_PK
+ PRIMARY KEY
+ (USER_C)
+);
+
+
+
+CREATE INDEX CUST_INDX ON INVOICE
+(DEALER_C)
+;
+
+CREATE INDEX STORE_COMP_C_INDX ON STORE
+(COMP_C)
+;
+
+
+-- Â–Â Ãœ«Ê· €Ì— „” Œœ„… ÕÌÀ ﬂ‰  »Õ«Ê· «·Õ’Ê· ⁄·Ï ﬂ—  «·’‰› »ÿ—Ìﬁ… «·ﬂÊœ œ«Œ· «·›Ê—„…  Ê·ﬂ‰ ﬁ„  »«·«” €‰«¡ ⁄‰Â« »⁄„· 
+-- VIEWS
+/*  ÃœÊ· ﬂ«—  «·’‰›*/ 
+CREATE TABLE SANF_CARD
+(
+  SERIAL       NUMBER,
+  INV_NO       NUMBER(11),
+  INV_DATE     DATE,
+  INV_TYPE     NUMBER(1),
+  STORE_NO     NUMBER(2),
+  DEALER_C     NUMBER(3),
+  DEALER_TYPE  NUMBER(1),
+  DEALER_N     VARCHAR2(100 BYTE),
+  SEQ          NUMBER(2),
+  ITEM_C       NUMBER(11),
+  SANF_QTY     NUMBER(11,2),
+  QTY          NUMBER(11),
+  PRICE        NUMBER(11,2),
+  ITEM_VAL     NUMBER(11,2),
+  UOM          VARCHAR2(15 BYTE),
+  UP_DATE      DATE,
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(2),
+  PAY_TYPE     NUMBER(1),
+  SANF_QTY_B4  NUMBER(11,2),
+  NOTE         VARCHAR2(100 BYTE),
+  I_SEQ        NUMBER
+);
+
+
+
+
+/*  ÃœÊ· ﬂ«—  «·’‰›*/ 
+CREATE TABLE ITEM_CARD
+(
+  SERIAL       NUMBER,
+  INV_NO       NUMBER(11),
+  INV_DATE     DATE,
+  INV_TYPE     NUMBER(1),
+  STORE_NO     NUMBER(2),
+  DEALER_C     NUMBER(3),
+  DEALER_TYPE  NUMBER(1),
+  DEALER_N     VARCHAR2(100 BYTE),
+  SEQ          NUMBER(2),
+  ITEM_C       NUMBER(11),
+  SANF_QTY     NUMBER(11,2),
+  QTY          NUMBER(11),
+  UOM          VARCHAR2(15 BYTE),
+  UP_DATE      DATE,
+  USER_C       NUMBER(2),
+  COMP_C       NUMBER(2),
+  NOTE         VARCHAR2(100 BYTE)
+);
+
+
+
+
+
+
+
+
+
+
+
